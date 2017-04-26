@@ -499,3 +499,4 @@
     * [13.5：综合案例：全屏Slidershow效果]()
     * [13.6：小结]()
 
+> 代码制作书可以参阅：[HTMLBook](http://oreillymedia.github.io/HTMLBook/)和[Atlas](https://atlas.oreilly.com/)
