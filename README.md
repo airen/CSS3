@@ -24,3 +24,7 @@ Illustrated CSS3 Details and Cases
 
 - [HTMLBook](http://oreillymedia.github.io/HTMLBook/)
 - [Atlas](https://atlas.oreilly.com/)
+
+-----------
+
+![](https://www.w3cplus.com/sites/default/files/blogs/2018/1801/pay.png)
