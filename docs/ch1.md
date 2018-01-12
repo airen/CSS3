@@ -75,23 +75,23 @@ CSS开始发展于1994年。最初的CSS提案计划于1994年11月在芝加哥�
 在 CSS 2 之后，CSS 工作组意识到这门语言已经变得非常庞大，再也无 法把它塞进单个规范中了。这样不仅阅读和编辑极其困难，而且限制了 CSS 本身的快速发展。别忘了，**一项规范如果要推进到最终阶段，其中的每项特 性都必须具备两个独立的实现和全面的测试**。为了促进CSS能得到更好的发展以规范推进速度。所以W3C组织决定将CSS以不同的功能模块细分出去，而且每个功能模块都可以独立更新版本。这其中，那些延续 CSS 2.1 已有特性的模块 会升级到 3 这个版本号。比如以下模块:
 
 - CSS 语法([http://w3.org/TR/css-syntax-3](http://w3.org/TR/css-syntax-3))
-- CSS 层叠与继承([http://w3.org/TR/css-cascade-3](http://w3.org/TR/css-cascade-3))
-- CSS 颜色([http://w3.org/TR/css3-color](http://w3.org/TR/css3-color))
-- CSS 选择器([http://w3.org/TR/selectors](http://w3.org/TR/selectors))
-- CSS 背景与边框([http://w3.org/TR/css3-background](http://w3.org/TR/css3-background))  
-- CSS 值与单位([http://w3.org/TR/css-values-3](http://w3.org/TR/css-values-3))
-- CSS 文本排版([http://w3.org/TR/css-text-3](http://w3.org/TR/css-text-3))
-- CSS 文本装饰效果([http://w3.org/TR/css-text-decor-3](http://w3.org/TR/css-text-decor-3))  
+- CSS 层叠与继承([http://w3.org/TR/css-cascade-3](http://w3.org/TR/css-cascade-3))
+- CSS 颜色([http://w3.org/TR/css3-color](http://w3.org/TR/css3-color))
+- CSS 选择器([http://w3.org/TR/selectors](http://w3.org/TR/selectors))
+- CSS 背景与边框([http://w3.org/TR/css3-background](http://w3.org/TR/css3-background))  
+- CSS 值与单位([http://w3.org/TR/css-values-3](http://w3.org/TR/css-values-3))
+- CSS 文本排版([http://w3.org/TR/css-text-3](http://w3.org/TR/css-text-3))
+- CSS 文本装饰效果([http://w3.org/TR/css-text-decor-3](http://w3.org/TR/css-text-decor-3))
 - CSS 字体(h[ttp://w3.org/TR/css3-fonts](ttp://w3.org/TR/css3-fonts))
-- CSS 基本 UI 特性([http://w3.org/TR/css3-ui](http://w3.org/TR/css3-ui))
+- CSS 基本 UI 特性([http://w3.org/TR/css3-ui](http://w3.org/TR/css3-ui))
 
 此外，如果某个模块是前所未有的新概念，那它的版本号将从 1 开始。 比如下面这些:
 
-- CSS 变形([http://w3.org/TR/css-transforms-1](http://w3.org/TR/css-transforms-1))
-- 图像混合效果([http://w3.org/TR/compositing-1](http://w3.org/TR/compositing-1))  
-- 滤镜效果([http://w3.org/TR/filter-effects-1](http://w3.org/TR/filter-effects-1))
-- CSS 遮罩([http://w3.org/TR/css-masking-1](http://w3.org/TR/css-masking-1))
-- CSS 伸缩盒布局([http://w3.org/TR/css-flexbox-1](http://w3.org/TR/css-flexbox-1))  
+- CSS 变形([http://w3.org/TR/css-transforms-1](http://w3.org/TR/css-transforms-1))
+- 图像混合效果([http://w3.org/TR/compositing-1](http://w3.org/TR/compositing-1))  
+- 滤镜效果([http://w3.org/TR/filter-effects-1](http://w3.org/TR/filter-effects-1))
+- CSS 遮罩([http://w3.org/TR/css-masking-1](http://w3.org/TR/css-masking-1))
+- CSS 伸缩盒布局([http://w3.org/TR/css-flexbox-1](http://w3.org/TR/css-flexbox-1))  
 - CSS 网格布局([http://w3.org/TR/css-grid-1](http://w3.org/TR/css-grid-1))
 
 > **提醒作者：上面list需要去验证，更新，并且提供CSS所有功能模块的清单列表**
